@@ -1,5 +1,5 @@
 belajar java script
 belajar my sql
 belajar phyton
-belajar java
 belajar bahasa C
+belajar ruby
